@@ -1,4 +1,6 @@
-# Chrysaora
+# Chrysaora_py
+
+# Note: Chrysaora_py has been deprecated in favor of the [Nim port](https://github.com/dylanagreen/chrysaora).
 
 Chrysaora is an attempt to teach an image classification convolutional neural network (CCN) to play chess. Chrysaora uses an alpha-beta pruning algorithm to prune a minimax search that searched through the outputs of this network. 
 
